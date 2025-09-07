@@ -13,7 +13,7 @@ A console-based Java application for managing student records using JDBC and MyS
 - ✅ User-friendly console interface
 - ✅ Error handling
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 Before running this application, ensure you have:
 
