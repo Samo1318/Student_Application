@@ -2,7 +2,7 @@
 
 A console-based Java application for managing student records using JDBC and MySQL database.
 
-## 📋 Features
+##  Features
 
 - ✅ Add new students
 - ✅ View all students
@@ -13,7 +13,7 @@ A console-based Java application for managing student records using JDBC and MyS
 - ✅ User-friendly console interface
 - ✅ Error handling
 
-## 🛠️ Prerequisites
+## 🛠 Prerequisites
 
 Before running this application, ensure you have:
 
@@ -21,7 +21,7 @@ Before running this application, ensure you have:
 - **MySQL Server** installed and running
 - **MySQL Connector/J** (JDBC driver)
 
-## 🗄️ Database Setup
+##  Database Setup
 1)Open MySQL Workbench (or your preferred client).
 
 2)Import the provided SQL file inside "Database_file" folder:
